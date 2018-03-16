@@ -22,3 +22,9 @@ body p {
   border: 10px;
   padding: 10px;
 }
+.strong {
+  font-weight: bold;
+}
+.em {
+  font-style: italic;
+}
