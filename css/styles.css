@@ -9,3 +9,7 @@ body {
   float: right;
 
 }
+.jumbotron {
+  background-color: yellow;
+  text-align: center;
+}
