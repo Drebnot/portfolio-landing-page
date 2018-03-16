@@ -6,10 +6,19 @@ body {
   height: 400px;
   border-radius: 360px;
   border: 10px solid yellow;
-  float: right;
-
+  float: left;
 }
 .jumbotron {
   background-color: yellow;
   text-align: center;
+}
+#intro {
+  font-size: 20px;
+  margin: 100px 5px 5px 10px;
+  border: 10px;
+
+  padding: 10px;
+}
+p {
+  font-size: 15px;
 }
