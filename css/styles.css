@@ -1,5 +1,5 @@
 .container {
-  margin-bottom: 200px;
+  margin-bottom: 50px;
 }
 
 body {
@@ -11,17 +11,22 @@ body p {
 .well {
   background: linear-gradient(to right, blue , skyblue);
 }
-
 .image {
   width: 400px;
   height: 400px;
   border-radius: 360px;
-  border: 10px solid yellow;
+  border: 10px solid darkblue;
   margin: 25px;
   float: left;
 }
 .jumbotron {
-  background-color: yellow;
+  margin-bottom: 0px;
+  background-image: url(../img/portland-banner.jpg);
+  background-position: 0% 25%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: white;
+  text-shadow: black 0.3em 0.3em 0.3em;
   text-align: center;
 }
 #intro {
