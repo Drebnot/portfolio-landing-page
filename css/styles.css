@@ -3,11 +3,15 @@
 }
 
 body {
-  background-color: skyblue;
+  background: linear-gradient(to right, skyblue , blue);
 }
 body p {
   font-size: 15px;
 }
+.well {
+  background: linear-gradient(to right, blue , skyblue);
+}
+
 .image {
   width: 400px;
   height: 400px;
@@ -31,4 +35,8 @@ body p {
 }
 .em {
   font-style: italic;
+  color: darkblue;
+}
+a {
+  color: white;
 }
