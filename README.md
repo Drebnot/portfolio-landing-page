@@ -12,7 +12,7 @@ _This will act as my Portfolio landing page. It will include my name, a list of 
 
 * _clone from github_
 * _open in browser_
-* _Links to live site via gh-pages and github: https://drebnot.github.io/portfolio-landing-page/ https://github.com/Drebnot/portfolio-landing-page 
+* _Links to live site via gh-pages and github:_ https://drebnot.github.io/portfolio-landing-page/ https://github.com/Drebnot/portfolio-landing-page 
 
 _{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? How should I set up my databases? Is there other code this app depends on?}_
 
